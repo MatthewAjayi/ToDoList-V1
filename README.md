@@ -1,5 +1,5 @@
 # ToDoList-V1
-Creating a dynamic to do list using node js, html, and ejs
+Creating a dynamic to do list using node js, html, ejs, and express.
 
 ## Table of Contents
 
